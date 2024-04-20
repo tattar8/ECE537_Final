@@ -1,0 +1,15 @@
+ECE 537 Final Project Repo - Taikhoom Attar
+File list:
+
+convert_ndjson_filter.py - This script converts the ndjson Reddit comment data to CSV while filtering it by keywords as well as adding sentiment analysis measurements to each 
+comment
+
+ipad/
+iphone/
+watch/
+
+These folders contain the data sets imported into Tableau.  The month_yr sheets were generated as CSVs by convert_ndjson_filter.py and converted to XLSX by Excel.
+
+main_tableau.twb - The Tableau project
+
+images/ - This folder contains the Tableau-generated graphs
